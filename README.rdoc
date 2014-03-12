@@ -1,3 +1,6 @@
-This Sinatra App uses a template originally designed by Matt Brown (thingsthatarebrown.com), downloaded from sampleresumetemplate.net with some modifications.
+I made this in order to learn more about Sinatra. It's an App with my Curriculum Vitae.
+
+First saw it in https://github.com/brodock/Curriculum-Vitae It uses a template originally designed by Matt Brown (thingsthatarebrown.com), downloaded from sampleresumetemplate.net with some modifications.
+
 
 It allow to Download PDF and the content is held by the yml files in the db folder.
