@@ -1,0 +1,3 @@
+This Sinatra App uses a template originally designed by Matt Brown (thingsthatarebrown.com), downloaded from sampleresumetemplate.net with some modifications.
+
+It allow to Download PDF and the content is held by the yml files in the db folder.

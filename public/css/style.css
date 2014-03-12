@@ -1,0 +1,24 @@
+body {
+	background:#f4f4f4 url(../img/grid.jpg);
+}
+.tags {
+	display: inline-block;
+	padding: 2px 4px;
+	font-size: 11.844px;
+	font-weight: bold;
+	line-height: 14px;
+	color: #ffffff;
+	vertical-align: baseline;
+	white-space: nowrap;
+	text-shadow: 0 -1px 0 rgba(0,0,0,0.25);
+	background-color: #999999;
+}
+#triple {
+	width: 100%;
+	-moz-column-count: 3;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 3;
+    -webkit-column-gap: 20px;
+    column-count: 3;
+    column-gap: 20px;
+}

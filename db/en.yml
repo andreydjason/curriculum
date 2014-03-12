@@ -1,0 +1,98 @@
+person:
+  name: Bruno Saibro Silveira
+  display_name: Bruno Silveira
+  display_title: Web Developer
+  email: djbrunosilveira@gmail.com
+  website: http://github.com/brunossilveira
+  mobile_phone: +55 (48) 8416-0506
+  profile: 
+    - "Solid knowledge in software development, constant search for new technologies, tools and ideas."
+    - "Commited to deliver good software, with clean, clever and clear code."
+  address:
+    city: Florianópolis
+    state: SC
+    country: Brazil
+  skills:
+    -
+      title: Web Development
+      description: "multi-language development, version control, BDD, TDD"
+    -
+      title: Sysadmin
+      description: "configuration, vagrant, linux"
+    -
+      title: Other
+      description: "hability to quickly find solutions to problems"  
+  technologies:
+    - Ruby on Rails
+    - Redmine
+    - Sinatra
+    - RSpec
+    - HTML5
+    - PHP5
+    - Moodle
+    - MySQL
+    - jQuery
+    - Linux
+    - CSS3
+    - MySQL
+    - Java
+    - Git    
+  education:
+    -
+      degree: Bachelor of Computer Information Systems
+      institution: Federal University of Santa Catarina (UFSC)
+      time_frame: 2006 - 2012 (on going)
+      technologies:
+        - 
+      description:
+        - ""
+  jobs:
+    -
+      organization: Universidade Federal de Santa Catarina (UFSC)
+      title: Web Developer - Intern
+      time_frame: August 2012 - now
+      description:
+        - "Development of technologies to support the remote learning program, which is a partnership of the University with the Federal Health Care Ministry, to create a Open University for the Federal Health Care System (UNA-SUS)."
+      tags:
+        - Ruby on Rails
+        - PHP5
+        - MySQL
+        - Gitlab
+        - Linux
+        - Redmine        
+        - RSpec
+        - Moodle 
+    -
+      organization: Universidade Federal de Santa Catarina (UFSC)
+      title: Web Developer - Intern
+      time_frame: May 2011 - August 2012
+      description:
+        - "Web development in the institutional CMS project (Paginas@UFSC). Which uses Wordpress as core, and has many customizations and plugins."
+        - "As developer I built new plugins, improved existing ones, modified third-party plugins according to needs, and customized Wordpress core when needed."
+      tags:
+        - PHP
+        - Wordpress
+        - HTML
+        - CSS
+        - MySQL
+        - Git
+        - Javascript
+        - jQuery
+        - CAS
+        - WebServices
+        - Linux
+    -
+      organization: Cianet Networking
+      title: JAVA Developer - Intern
+      time_frame: May 2010 - Jan 2011
+      description:
+        - "Web development for the Distance Learning Environment (Moodle based) and developing, managing the institutional CMS that powers the university's main website and many sub­portals."
+        - "I was on the institutional CMS project from the beginning, helping to plan the whole project from sizing computational resources, planning deployment, planning migrations and training the first key users."
+        - "Also I was responsible for managing some backend solutions used by the development team: Gitorious, Redmine."
+      tags:
+        - Java
+        - CVS
+  congresses:
+    -
+
+        

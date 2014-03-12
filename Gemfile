@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'sinatra', :require => 'sinatra/base'
+gem 'sinatra-r18n', :require => 'sinatra/r18n'
+gem 'pdfkit', :require => 'pdfkit'
+gem 'wkhtmltopdf-binary'
+gem 'nokogiri', :require => 'nokogiri'
