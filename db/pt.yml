@@ -5,13 +5,13 @@ person:
   email: djbrunosilveira@gmail.com
   website: http://github.com/brunossilveira
   mobile_phone: +55 (48) 8416-0506
-  profile: 
+  profile:
     - "Sólidos conhecimentos em desenvolvimento, busca constante por novas tecnologias, ferramentas e idéias."
     - "Comprometido em entregar software de qualidade, com código limpo, inteligente e claro."
   address:
     city: Florianópolis
     state: SC
-    country: Brazil        
+    country: Brazil
   skills:
     -
       title: Desenvolvimento Web
@@ -19,9 +19,9 @@ person:
     -
       title: Sysadmin
       description: "criação, configuração e instalação de ambientes, vagrant, linux, mac os"
-    - 
+    -
       title: "Outros"
-      description: "habilidade para encontrar respostas para problemas rapidamente"  
+      description: "habilidade para encontrar respostas para problemas rapidamente"
   technologies:
     - Ruby on Rails
     - Redmine
@@ -36,21 +36,21 @@ person:
     - CSS3
     - MySQL
     - Java
-    - Git    
+    - Git
   education:
     -
       degree: Bacharel em Sistemas de Informação
       institution: Universidade Federal de Santa Catarina (UFSC)
       time_frame: 2006 - 2012 (em progresso)
       technologies:
-        - 
+        -
       description:
         - ""
   jobs:
     -
       organization: Universidade Federal de Santa Catarina (UFSC)
       title: Desenvolvedor Web - Estágio
-      time_frame: Agosto 2012 - agora
+      time_frame: Agosto 2012 - Abril 2014
       description:
         - "Desenvolvimento de ferramentas para ajudar o programa de ensino à distancia da parceria entre o Ministério Federal da Saúde com a Universidade. Desenvolvido um Sistema Web para escrita de TCCs, com geração de PDF nas normas da ABNT e uma Central de atendimento entre alunos, tutores e coordenadores no Moodle, fazendo integração com o Redmine."
       tags:
@@ -59,9 +59,9 @@ person:
         - MySQL
         - Gitlab
         - Linux
-        - Redmine        
+        - Redmine
         - RSpec
-        - Moodle  
+        - Moodle
     -
       organization: Universidade Federal de Santa Catarina (UFSC)
       title: Desenvolvedor Web - Estágio
@@ -81,13 +81,12 @@ person:
         - CAS
         - WebServices
         - Linux
-    -    
+    -
       organization: Cianet Networking
       title: Desenvolvedor Java - Estágio
       time_frame: Maio 2010 - Janeiro 2011
       description:
-        - "Desenvolvimento de ferramentas de teste para os equipamentos da empresa, utilizando JAVA SE. Envolvido o uso de Socket, troca de pacotes, análise de perda de pacotes, protocolo UDP e etc." 
+        - "Desenvolvimento de ferramentas de teste para os equipamentos da empresa, utilizando JAVA SE. Envolvido o uso de Socket, troca de pacotes, análise de perda de pacotes, protocolo UDP e etc."
       tags:
         - Java
         - CVS
-        

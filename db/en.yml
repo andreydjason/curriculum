@@ -5,7 +5,7 @@ person:
   email: djbrunosilveira@gmail.com
   website: http://github.com/brunossilveira
   mobile_phone: +55 (48) 8416-0506
-  profile: 
+  profile:
     - "Solid knowledge in software development, constant search for new technologies, tools and ideas."
     - "Commited to deliver good software, with clean, clever and clear code."
   address:
@@ -21,7 +21,7 @@ person:
       description: "configuration, vagrant, linux"
     -
       title: Other
-      description: "hability to quickly find solutions to problems"  
+      description: "hability to quickly find solutions to problems"
   technologies:
     - Ruby on Rails
     - Redmine
@@ -36,21 +36,21 @@ person:
     - CSS3
     - MySQL
     - Java
-    - Git    
+    - Git
   education:
     -
       degree: Bachelor of Computer Information Systems
       institution: Federal University of Santa Catarina (UFSC)
       time_frame: 2006 - 2012 (on going)
       technologies:
-        - 
+        -
       description:
         - ""
   jobs:
     -
       organization: Universidade Federal de Santa Catarina (UFSC)
       title: Web Developer - Intern
-      time_frame: August 2012 - now
+      time_frame: August 2012 - April 2014
       description:
         - "Development of technologies to support the remote learning program, which is a partnership of the University with the Federal Health Care Ministry, to create a Open University for the Federal Health Care System (UNA-SUS)."
       tags:
@@ -59,9 +59,9 @@ person:
         - MySQL
         - Gitlab
         - Linux
-        - Redmine        
+        - Redmine
         - RSpec
-        - Moodle 
+        - Moodle
     -
       organization: Universidade Federal de Santa Catarina (UFSC)
       title: Web Developer - Intern
@@ -94,5 +94,3 @@ person:
         - CVS
   congresses:
     -
-
-        
