@@ -18,7 +18,7 @@ person:
       description: "multi-language development, version control, BDD, TDD"
     -
       title: Sysadmin
-      description: "configuration, vagrant, linux"
+      description: "configuration, vagrant, linux, apache, nginx, EC2, heroku"
     -
       title: Other
       description: "hability to quickly find solutions to problems"
@@ -37,16 +37,31 @@ person:
     - MySQL
     - Java
     - Git
+    - Joomla
+    - apache
+    - nginx
   education:
     -
       degree: Bachelor of Computer Information Systems
       institution: Federal University of Santa Catarina (UFSC)
-      time_frame: 2006 - 2012 (on going)
+      time_frame: 2010 - 2014 (on going)
       technologies:
         -
       description:
         - ""
   jobs:
+    -
+      organization: Enfants Creative
+      title: Web Developer/Sysadmin - Intern
+      time_frame: April 2014 - now
+      description:
+        - "I installed Gitlab and OpenProject aplications in Digital Ocean's VPS. Also I developed Joomla components for the Exib.me platform, which is a social network for creative people."
+      tags:
+        - PHP5
+        - MySQL
+        - Gitlab
+        - Linux
+        - Joomla
     -
       organization: Universidade Federal de Santa Catarina (UFSC)
       title: Web Developer - Intern

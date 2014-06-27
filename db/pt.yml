@@ -18,7 +18,7 @@ person:
       description: "desenvolvimento multi-linguagem e multi-paradigma, controle de versão, TDD e BDD"
     -
       title: Sysadmin
-      description: "criação, configuração e instalação de ambientes, vagrant, linux, mac os"
+      description: "criação, configuração e instalação de ambientes, vagrant, linux, apache, nginx, heroku"
     -
       title: "Outros"
       description: "habilidade para encontrar respostas para problemas rapidamente"
@@ -37,16 +37,31 @@ person:
     - MySQL
     - Java
     - Git
+    - Joomla
+    - apache
+    - nginx
   education:
     -
       degree: Bacharel em Sistemas de Informação
       institution: Universidade Federal de Santa Catarina (UFSC)
-      time_frame: 2006 - 2012 (em progresso)
+      time_frame: 2010 - 2014 (em progresso)
       technologies:
         -
       description:
         - ""
   jobs:
+    -
+      organization: Enfants Creative
+      title: Desenvolvedor Web/Sysadmin - Estágio
+      time_frame: Abril 2014 - Presente
+      description:
+        - "Instalação e manutenção de aplicação para versionamento de código (Gitlab) em máquina virtual (Digital Ocean), bem como aplicação para gerência de projetos (OpenProject). Desenvolvimento de componentes Joomla para a rede Exib.me, que é uma rede social para criativos."
+      tags:
+        - PHP5
+        - MySQL
+        - Gitlab
+        - Linux
+        - Joomla
     -
       organization: Universidade Federal de Santa Catarina (UFSC)
       title: Desenvolvedor Web - Estágio
